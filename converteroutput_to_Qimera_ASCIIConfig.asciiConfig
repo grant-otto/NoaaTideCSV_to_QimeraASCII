@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ascii-parser-config version="2" header-line-count="1" encoding="UTF-8">
+	<float64-field mapping="none"/>
+	<separator/>
+	<date-time-field format="yyyy/M/d h:m" mapping="none"/>
+	<separator/>
+	<float64-field mapping="tide"/>
+	<separator/>
+	<text-field mapping="none"/>
+</ascii-parser-config>
