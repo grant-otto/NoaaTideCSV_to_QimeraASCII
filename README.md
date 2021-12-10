@@ -1,6 +1,7 @@
 # NoaaTideCSV_to_QimeraASCII
 Converter and example for quickly converting a NOAA Tide CSV to a CSV file supported by Qimera ASCII import.
 
+Instructions for this converter:
 1. Clone this repository.
 2. Ensure you have set up a Python environment that uses Pandas (Anaconda is an excellent resource)
 3. Copy the file you want to convert into this folder.
