@@ -3,7 +3,7 @@ Converter and example for quickly converting a NOAA Tide CSV to a CSV file suppo
 
 Instructions for this converter:
 1. Clone this repository.
-2. Ensure you have set up a Python environment that uses Pandas and Numpy (Anaconda is an excellent resource)
+2. Ensure you have set up a Python environment that uses Pandas, Glob2, and Numpy (Anaconda is an excellent resource) or install python3 directly on your machine and use pip to install the packages (e.g. pip install pandas).
 3. Copy the files you want to convert into this folder. The code will convert all CSV files in this directory.
 4. Run the noaaTideCSV_to_QimeraCSV.py Python file. 
 5. Your new CSVs will appear with a new filename that includes the timestamp in the $converted_files$ folder.
